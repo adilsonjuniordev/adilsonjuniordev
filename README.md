@@ -25,9 +25,6 @@
   <a href="https://discord.com/users/581869683381239811" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
-  <a href="https://medium.com/@adilson-junior" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=555d50&logoColor=white&labelColor=&style=flat" height="40" alt="medium logo"  />
-  </a>
   <a href="https://www.instagram.com/juninhobacker10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
   </a>
